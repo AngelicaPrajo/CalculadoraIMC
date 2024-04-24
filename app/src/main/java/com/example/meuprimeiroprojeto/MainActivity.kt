@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+//test
 
         val btnCalcular: Button = findViewById(R.id.btnCalcular)
         val edtPeso: EditText = findViewById(R.id.edittext_peso)
